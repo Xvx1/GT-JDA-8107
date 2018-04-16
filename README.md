@@ -7,7 +7,7 @@ You must install GoLang in order to run this command-line application:
 https://golang.org/doc/install
 `
 
-## Install this Application
+## Installation
 In order to install this application, use the `go get` command as follows:
 
 `go get github.com/Xvx1/GT-JDA-8107`
