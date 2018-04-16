@@ -1,20 +1,20 @@
 # GT-JDA-8107
 Junior Design for Team 8107
 
-#Setup
+## Setup
 You must install GoLang in order to run this command-line application:
 `
 https://golang.org/doc/install
 `
 
-#Install this Application
+## Install this Application
 In order to install this application, use the `go get` command as follows:
 
 `go get github.com/Xvx1/GT-JDA-8107`
 
 Once you have performed this operation, navigate to your `GOPATH` directory for this application.
 
-#Usage
+## Usage
 Once you are in your `GOPATH` directory, navigate to the source of this project, likely located at `src/github.com/Xvx1/GT-JDA-8107`
 
 To run the application, use the following commands:
